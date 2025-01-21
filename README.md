@@ -1,4 +1,4 @@
-<h2 style="font-size:36px;"># JuuksurAPI:</h2>
+<h2 style="font-size:36px;"># JuuksuriAPI:</h2>
 ----------------------------------------------------------------------------------------
 
 Database:
