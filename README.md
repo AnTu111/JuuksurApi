@@ -1,5 +1,5 @@
 <h1># JuuksurApi</h1>
 
 ----------------------------------------------------------------------------------------
-<p style="font-size:20px;">Database:</p>
+Database:
 ![image](https://github.com/user-attachments/assets/e590fcb5-15cf-4724-9f14-6728d96654d9)
